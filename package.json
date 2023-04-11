@@ -40,6 +40,8 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"colorjs.io": "^0.4.2"
+		"colorjs.io": "^0.4.2",
+		"mapbox-gl": "2.10",
+		"threebox-plugin": "github:jeffmacinnes/threebox"
 	}
 }
